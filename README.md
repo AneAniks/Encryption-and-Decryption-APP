@@ -1,4 +1,4 @@
-# Encryption-and-Decryption-APP
+# Encryption and Decryption Application
 ### University Project ( Second year of studies | June 2019) 
 
 Our project is multi-platform based application that works in Java, Android and Pascal. 
